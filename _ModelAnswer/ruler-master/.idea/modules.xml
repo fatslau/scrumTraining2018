@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ruler-master.iml" filepath="$PROJECT_DIR$/ruler-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ruler-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ruler-master_main.iml" group="ruler-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ruler-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ruler-master_test.iml" group="ruler-master" />
+    </modules>
+  </component>
+</project>
